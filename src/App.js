@@ -6,7 +6,7 @@ function App() {
   return (
     <div style={{ padding: '2rem' }}>
       <BpkText tagName="h1" textStyle="xl">
-        🎒 Hello from Backpack React App!
+        ✈️ Flight Schedule
       </BpkText>
       <BpkButton onClick={() => alert('Hello Backpack!')}>
         Click Me
